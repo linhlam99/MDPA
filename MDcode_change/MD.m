@@ -44,10 +44,10 @@ PlotPosOnly = 0;
 %InitThree
 % InitBlock
 % InitCirc
-%InitEllipse
+InitEllipse
 % InitBlock0
 % InitBlock0FD
-InitVStream
+% InitVStream
 % InitHCP
 % InitHCPBlob
 % InitVStreamHCP
